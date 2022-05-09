@@ -1,4 +1,4 @@
-<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/banner-svg2.svg" width="100%">
+<!-- <img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/banner-svg2.svg" width="100%"> -->
 <p align="Center">
 	Creative, detail-oriented, software engineer with a deep interest in creating solutions to cater to business needs.
 </p>
@@ -17,25 +17,25 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center" color="white">Breaking Bad - Infopage</h2>
+				<h3 align="center" color="white">NASA API - Picture of the Day</h2>
 				<div align="center" >  
-					<a href='https://ethodeus.github.io/breaking-bad-info-page/'>
-						<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Breaking-bad/ezgif.com-gif-maker.gif" alt="Breaking-bad-		infopage" height="100%" />
+					<a href='https://github.com/LucasMERN/NASAAPOD'>
+						<!--<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Breaking-bad/ezgif.com-gif-maker.gif" alt="NASA Picture of the Day Generator" height="100%" /> -->
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Ethodeus/breaking-bad-info-page" target="_blank">
+						<a href="https://github.com/LucasMERN/NASAAPOD" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://ethodeus.github.io/breaking-bad-info-page/" target="_blank">
+						<a href="https://github.com/LucasMERN/NASAAPOD" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for Breaking Bad fans to find general information about their favorite characters!</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for Space Fanatics to find pictures and relative info for the universe on any given day!</p>
 				</div>
 			</td>
-			<td width="50%">
+			<!--<td width="50%">
 				<h3 align="center" color="white">Pick 'em Drinks! - Drink recipe site</h2>
 				<div align="center" >  
 					<a href='https://ethodeus.github.io/pick-em-drinks-project/'>
@@ -52,28 +52,28 @@
 						</a>	
 					</p>
 					 <p><strong>JavaScript, CSS3, HTML5</strong> - Simple app to help you decide which drinks to make at your party!</p>
-				</div>
+				</div> -->
 	<tr>
 		<td width="50%">
 			<h3 align="center" color="white">Personal Portfolio</h2>
 			<div align="center" >  
-				<a href='https://sebastianospina.netlify.app'>
-					<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Porfolio/ezgif.com-gif-maker%20(1).gif" height="100%" />
+				<a href='https://lucaswinklerdev.netlify.app'>
+					<!--<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Porfolio/ezgif.com-gif-maker%20(1).gif" height="100%" />-->
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/Ethodeus/ethodeus.github.io" target="_blank">
+					<!--<a href="https://github.com/Ethodeus/ethodeus.github.io" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-					</a>  
-					<a href="https://sebastianospina.netlify.app" target="_blank">
+					</a>  -->
+					<a href="https://lucaswinklerdev.netlify.app" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 					</a>	
 				</p>
 				<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
 			</div>
 		</td>
-		<td width="50%">
+		<!--<td width="50%">
 			<h3 align="center" color="white">Simple Calculator</h2>
 			<div align="center" >  
 				<a href='https://ethodeus.github.io/simple-calculator-project/'>
@@ -91,7 +91,7 @@
 				</p>
 				<p><strong>JavaScript, CSS3, HTML5</strong> - Simple calculator website as my first attempt to work with OOP.</p>
 			</div>	
-		</td>
+		</td>-->
 	</table>
 </div>
 <br />
@@ -139,11 +139,7 @@
 				<br>
 				<div align="center">
 					&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/visual%20studio%20code-687.svg" alt="VS Code" height="44" />  
-					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/cdnlogo.com_illustrator.svg" alt="Illustrator" height="44" /> 
-					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/cdnlogo.com_photoshop.svg" alt="Photoshop" height="44" />   	
+					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/visual%20studio%20code-687.svg" alt="VS Code" height="44" />   	
 				</div>
 			</td>
 		</tr>
@@ -155,7 +151,7 @@
 
 <h2 align="center" color="white">Let's connect!</h2>
 <p align="center">
-	<a href="https://twitter.com/dev_ethos" target="_blank">
+	<a href="https://twitter.com/MERN_Man_Luke" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/twitter.svg"
 			width="40px"
@@ -163,28 +159,14 @@
 		/>
 	</a>
 	&nbsp&nbsp&nbsp
-	<a href="https://angel.co/u/sc-ospc" target="_blank">
-		<img
-			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/angellist.svg"
-			width="40px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://www.behance.net/blackintsub" target="_blank">
-		<img
-			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/behance.svg"
-			width="40px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://www.linkedin.com/in/sebastianocospina/" target="_blank">
+	<a href="https://www.linkedin.com/in/lucaswinklerdev/" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/linkedin-in.svg"
 			width="40px"
 		/>
 	</a>
 	&nbsp&nbsp&nbsp
-	<a href="https://github.com/Ethodeus" target="_blank">
+	<a href="https://github.com/LucasMERN" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/github.svg"
 			width="40px"
