@@ -9,6 +9,17 @@
 <br />
 <p align="center">Please see <a href="https://lucaswinklerdev.netlify.app">my website</a> for more information!</p>
 <br />
+<h2 align="center">Data & Analytics</h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=LucasMERN&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=5BDCDD&ring=DDDDDD&sideNums=006DDD&sideLabels=CF4ADD&currStreakNum=2B72DD&fire=1D96DD&currStreakLabel=2D56DD&stroke=ddddddbackground=5BDCDD">
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=LucasMERN&bg_color=5BDCDD&hide_border=true&text_color=CF4ADD&title_color=2D56DD&include_all_commits=true&count_private=true">
+</table>
+</div>
 
 <!-- PROJECTS -->
 
