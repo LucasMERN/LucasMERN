@@ -1,9 +1,9 @@
-<!-- <img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/banner-svg2.svg" width="100%"> -->
+<img src="github banner.gif" width="100%">
 <p align="Center">
-	Creative, detail-oriented, software engineer with a deep interest in creating solutions to cater to business needs.
+	Creative, detail-oriented, software engineer with a deep interest in creating solutions that cater to business needs.
 </p>
 <p align="Center">
-	Quick learner who enjoys experimenting with new technology. Able to switch between perfectionism and pragmatism. Agile
+	Quick learner that enjoys experimenting with new technology. Able to switch between perfectionism and pragmatism. Agile
 	software development, teamwork, extremely passionate about problem solving. Always willing and able to think outside the box.
 </p>
 <br />
