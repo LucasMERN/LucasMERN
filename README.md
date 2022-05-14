@@ -20,7 +20,7 @@
 				<h3 align="center" color="white">NASA API - Picture of the Day</h2>
 				<div align="center" >  
 					<a href='https://github.com/LucasMERN/NASAAPOD'>
-						<!--<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Breaking-bad/ezgif.com-gif-maker.gif" alt="NASA Picture of the Day Generator" height="100%" /> -->
+						<img src="NASAAPOD.gif" alt="NASA Picture of the Day Generator" height="100%" />
 					</a>
 					<br>
 					<br>
