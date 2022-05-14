@@ -58,7 +58,7 @@
 			<h3 align="center" color="white">Personal Portfolio</h2>
 			<div align="center" >  
 				<a href='https://lucaswinklerdev.netlify.app'>
-					<!--<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Porfolio/ezgif.com-gif-maker%20(1).gif" height="100%" />-->
+					<img src="SpectralCoffee.gif" height="100%" />-->
 				</a>
 				<br>
 				<br>
