@@ -58,7 +58,7 @@
 			<h3 align="center" color="white">Personal Portfolio</h2>
 			<div align="center" >  
 				<a href='https://lucaswinklerdev.netlify.app'>
-					<img src="SpecralCoffee.gif" height="100%" />-->
+					<img src="SpectralCoffee.gif" height="100%" />-->
 				</a>
 				<br>
 				<br>
