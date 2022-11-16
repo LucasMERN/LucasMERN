@@ -7,7 +7,7 @@
 	software development, teamwork, extremely passionate about problem solving. Always willing and able to think outside the box.
 </p>
 <br />
-<p align="center">Please see <a href="https://lucaswinklerdev.netlify.app">my website</a> for more information!</p>
+<p align="center">Please see <a href="https://lucaswinklerdev.com">my website</a> for more information!</p>
 <br />
 <h2 align="center">Data & Analytics</h2>
 <div align="center">
@@ -70,7 +70,7 @@
 		<td width="50%">
 			<h3 align="center" color="white">Personal Portfolio</h2>
 			<div align="center" >  
-				<a href='https://lucaswinklerdev.netlify.app'>
+				<a href='https://lucaswinklerdev.com'>
 					<img src="Untitled.png" height="100%" />
 				</a>
 				<br>
