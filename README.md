@@ -79,7 +79,7 @@
 					<!--<a href="https://github.com/LucasMERN/LucasMERN.github.io" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  -->
-					<a href="https://lucaswinklerdev.netlify.app" target="_blank">
+					<a href="https://lucaswinklerdev.com" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 					</a>	
 				</p>
