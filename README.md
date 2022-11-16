@@ -39,9 +39,11 @@
 						<a href="https://github.com/LucasMERN/NASAAPOD" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
+						<!--
 						<a href="https://github.com/LucasMERN/NASAAPOD" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
+						-->
 					</p>
 					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for Space Fanatics to find pictures and relative info for the universe on any given day!</p>
 				</div>
@@ -69,12 +71,12 @@
 			<h3 align="center" color="white">Personal Portfolio</h2>
 			<div align="center" >  
 				<a href='https://lucaswinklerdev.netlify.app'>
-					<img src="SpectralCoffee.gif" height="100%" />
+					<img src="Untitled.png" height="100%" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<!--<a href="https://github.com/Ethodeus/ethodeus.github.io" target="_blank">
+					<!--<a href="https://github.com/LucasMERN/LucasMERN.github.io" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  -->
 					<a href="https://lucaswinklerdev.netlify.app" target="_blank">
