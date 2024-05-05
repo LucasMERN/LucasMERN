@@ -31,7 +31,7 @@
 				<h3 align="center" color="white">Filmax Movie Hub</h2>
 				<div align="center" >  
 					<a href='https://github.com/LucasMERN/Filmax-movie-hub'>
-						<img src="filmax-homepage.png" width="100%">
+						<img src="Filmax-Homepage.png" width="100%">
 					</a>
 					<br>
 					<br>
