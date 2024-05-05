@@ -28,83 +28,48 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center" color="white">NASA API - Picture of the Day</h2>
+				<h3 align="center" color="white">Filmax Movie Hub</h2>
 				<div align="center" >  
-					<a href='https://github.com/LucasMERN/NASAAPOD'>
-						<img src="NasaPicGenerator.gif" alt="NASA Picture of the Day Generator" height="100%" />
+					<a href='https://github.com/LucasMERN/Filmax-movie-hub'>
+						<img src="filmax-homepage.png" width="100%">
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/LucasMERN/NASAAPOD" target="_blank">
+						<a href="https://github.com/LucasMERN/Filmax-movie-hub" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<!--
-						<a href="https://github.com/LucasMERN/NASAAPOD" target="_blank">
+						<a href="https://github.com/LucasMERN/Filmax-movie-hub" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 						-->
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for Space Fanatics to find pictures and relative info for the universe on any given day!</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for movie Fanatics to discover new movies and shows and retrieve relevant information about them!</p>
 				</div>
 			</td>
-			<!--<td width="50%">
-				<h3 align="center" color="white">Pick 'em Drinks! - Drink recipe site</h2>
+		</tr>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">Personal Portfolio</h2>
 				<div align="center" >  
-					<a href='https://ethodeus.github.io/pick-em-drinks-project/'>
-						<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Pick%20'em%20Drinks!/ezgif.com-gif-maker.gif" alt="Pick 'em Drinks!" height="100%" />
+					<a href='https://lucaswinklerdev.com'>
+						<img src="Untitled.png" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Ethodeus/pick-em-drinks-project" target="_blank">
+						<!--<a href="https://github.com/LucasMERN/LucasMERN.github.io" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://ethodeus.github.io/pick-em-drinks-project/" target="_blank">
+						</a>  -->
+						<a href="https://lucaswinklerdev.com" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - Simple app to help you decide which drinks to make at your party!</p>
-				</div> -->
-	<tr>
-		<td width="50%">
-			<h3 align="center" color="white">Personal Portfolio</h2>
-			<div align="center" >  
-				<a href='https://lucaswinklerdev.com'>
-					<img src="Untitled.png" height="100%" />
-				</a>
-				<br>
-				<br>
-				<p>
-					<!--<a href="https://github.com/LucasMERN/LucasMERN.github.io" target="_blank">
-						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-					</a>  -->
-					<a href="https://lucaswinklerdev.com" target="_blank">
-						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-					</a>	
-				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-			</div>
-		</td>
-		<!--<td width="50%">
-			<h3 align="center" color="white">Simple Calculator</h2>
-			<div align="center" >  
-				<a href='https://ethodeus.github.io/simple-calculator-project/'>
-					<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Calculator/ezgif.com-gif-maker.gif" alt="Calculator" height="100%" />
-				</a>
-				<br>
-				<br>
-				<p>
-					<a href="https://github.com/Ethodeus/simple-calculator-project" target="_blank">
-						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-					</a>  
-					<a href="https://ethodeus.github.io/simple-calculator-project/" target="_blank">
-						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-					</a>	
-				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - Simple calculator website as my first attempt to work with OOP.</p>
-			</div>	
-		</td>-->
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+				</div>
+			</td>
+		</tr>
 	</table>
 </div>
 <br />
@@ -164,14 +129,6 @@
 
 <h2 align="center" color="white">Let's connect!</h2>
 <p align="center">
-	<a href="https://twitter.com/MERN_Man_Luke" target="_blank">
-		<img
-			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/twitter.svg"
-			width="40px"
-			style="padding-left: 10px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
 	<a href="https://www.linkedin.com/in/lucaswinklerdev/" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/linkedin-in.svg"
