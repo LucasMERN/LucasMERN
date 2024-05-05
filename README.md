@@ -45,7 +45,7 @@
 						</a>	
 						-->
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for movie Fanatics to discover new movies and shows and retrieve relevant information about them!</p>
+					<p><strong>React.js, NextJS, Typescript, RadixUI, TailwindCSS</strong> - Platform for movie Fanatics to discover new movies and shows and retrieve relevant information about them!</p>
 				</div>
 			</td>
 		</tr>
