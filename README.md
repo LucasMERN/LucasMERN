@@ -60,6 +60,24 @@
 				</div>
 			</td>
 		</tr> -->
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">Justice Voss Portfolio</h2>
+				<div align="center" >  
+					<a href='https://github.com/LucasMERN/jvoss96-portfolio'>
+						<img src="jvoss96-port.png" width="100%">
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/LucasMERN/jvoss96-portfolio" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+					</p>
+					<p><strong>React.js, NextJS, Typescript, RadixUI, TailwindCSS</strong> - Portfolio site for Game Developer - Justice Voss</p>
+				</div>
+			</td>
+		</tr>
 	</table>
 </div>
 <br />
