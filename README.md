@@ -7,8 +7,6 @@
 	software development, teamwork, extremely passionate about problem solving. Always willing and able to think outside the box.
 </p>
 <br />
-<p align="center">Please see <a href="https://lucaswinklerdev.com">my website</a> for more information!</p>
-<br />
 <h2 align="center">Data & Analytics</h2>
 <div align="center">
 <table>
@@ -38,18 +36,13 @@
 					<p>
 						<a href="https://github.com/LucasMERN/Filmax-movie-hub" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<!--
-						<a href="https://github.com/LucasMERN/Filmax-movie-hub" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-						</a>	
-						-->
+						</a>
 					</p>
 					<p><strong>React.js, NextJS, Typescript, RadixUI, TailwindCSS</strong> - Platform for movie Fanatics to discover new movies and shows and retrieve relevant information about them!</p>
 				</div>
 			</td>
 		</tr>
-		<tr>
+<!-- 		<tr>
 			<td width="50%">
 				<h3 align="center" color="white">Personal Portfolio</h2>
 				<div align="center" >  
@@ -59,9 +52,6 @@
 					<br>
 					<br>
 					<p>
-						<!--<a href="https://github.com/LucasMERN/LucasMERN.github.io" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  -->
 						<a href="https://lucaswinklerdev.com" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
@@ -69,7 +59,7 @@
 					<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
 				</div>
 			</td>
-		</tr>
+		</tr> -->
 	</table>
 </div>
 <br />
