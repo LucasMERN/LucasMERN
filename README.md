@@ -37,6 +37,9 @@
 						<a href="https://github.com/LucasMERN/Filmax-movie-hub" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
+						<a href="https://movie-api-oqzcg4pqx-lucasmerns-projects.vercel.app/dashboard" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>
 					</p>
 					<p><strong>React.js, NextJS, Typescript, RadixUI, TailwindCSS</strong> - Platform for movie Fanatics to discover new movies and shows and retrieve relevant information about them!</p>
 				</div>
@@ -72,6 +75,9 @@
 					<p>
 						<a href="https://github.com/LucasMERN/jvoss96-portfolio" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+						<a href="https://jvoss96-portfolio.vercel.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>
 					</p>
 					<p><strong>React.js, NextJS, Typescript, RadixUI, TailwindCSS</strong> - Portfolio site for Game Developer - Justice Voss</p>
